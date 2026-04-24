@@ -1,6 +1,6 @@
 ---
-title: "Genome-wide analysis of genetic diversity in a germplasm collection including wild relatives and interspecific clones of garden asparagus"
-author: "Flavio Lozano-Isla"
+title: "The Phenotypic Diversity of 232 Germplasm Accessions Identifies the Adverse Effects of Flowering Redundancy on Peanut Yield"
+author: "Jhorsan Mauri"
 format:
   html:
     toc: true
